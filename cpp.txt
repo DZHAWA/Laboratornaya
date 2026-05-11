@@ -3,10 +3,10 @@
 <<<<<<< HEAD
 and have a nice day!!
 =======
-and have a nice day
+and have a nice day << insert << endl;
 best wishes,
 <<<<<<< HEAD
-Youe dear Matthew
+Youe dear bankapivvva
 >>>>>>> 6676dc196067f0cd824ae2a7179c6e39c9ffaa2e
 =======
 >>>>>>> db7ed359fe8fb3f7ab8f9604c660cc44422159bf
